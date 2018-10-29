@@ -43,17 +43,22 @@ Kaggle дає зручну та безкоштовну хмару (хоча і �
 
 Наприклад вставте в наступну комірку код нижче:
 
-**!mkdir -p data
-!kaggle datasets download -d xvivancos/transactions-from-a-bakery
+**!mkdir -p data**
+
+**!kaggle datasets download -d xvivancos/transactions-from-a-bakery**
+
 Виконайте комірку натискаючи Shift+Enter**
 
 Ви скчаєте до себе в хмару тренувальний датасет https://www.kaggle.com/xvivancos/transactions-from-a-bakery
 Далі вставте в наступну комірку код нижче:
 
-**import pandas as pd
-import os
-df = pd.read_csv('transactions-from-a-bakery.zip')
-df.head()**
+**import pandas as pd**
+
+**import os**
+
+**df = pd.read_csv('transactions-from-a-bakery.zip')**
+
+**df.head()**
 
 Виконайте комірку натискаючи Shift+Enter
 
