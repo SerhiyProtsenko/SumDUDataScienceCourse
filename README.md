@@ -1,4 +1,4 @@
-![elit stickers](https://github.com/SerhiyProtsenko/SumDUDataScienceCourse/blob/master/image/elit.jpeg)
+![elit stickers](https://github.com/SerhiyProtsenko/SumDUDataScienceCourse/blob/master/image/elit.jpeg https://github.com/SerhiyProtsenko/SumDUDataScienceCourse/blob/master/image/logo_UA_full%2B.svg)
 
 
 # SumDU Data Science Course
