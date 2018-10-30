@@ -1,3 +1,6 @@
+![elit stickers](https://github.com/SerhiyProtsenko/SumDUDataScienceCourse/blob/master/image/elit.jpeg)
+
+
 # SumDU Data Science Course
 **Welcome to the course homepage**
 
