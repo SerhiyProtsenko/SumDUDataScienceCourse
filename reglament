@@ -6,15 +6,24 @@
 Все  разом 120 балів. Ті хто відвідують практики, також мають тиждень щоб закінчити своє завдання, яке почнуть на занятті.
 Всі рішення мені треба відправляти в Telegram особистими повідомленнями. Однакові або схожі рішення не приймаються - 0 балів.
 
-ДЗ #1:
+ДЗ #1: (максимум 5 балів)
 - для тих хто відвідує лекції та практики: https://mlcourse.ai/assignments (перше завдання)
 - для тих хто не відвідує лекції та практики: https://github.com/SerhiyProtsenko/SumDUDataScienceCourse/blob/master/homeworks/0%20HW%20assignment_pandas_olympic.ipynb 
 Deadline першого домашнього завдання: необхідно виконати та надіслати Ваше рішення до 11 лютого 23:59
 
-ДЗ #2:
+ДЗ #2: (максимум 5 балів)
 https://github.com/SerhiyProtsenko/SumDUDataScienceCourse/blob/master/homeworks/2_HW_pandas_matplotlib.ipynb
 Deadline другого домашнього завдання: необхідно виконати та надіслати Ваше рішення до 18 лютого 23:59
 
-ДЗ #3:
+ДЗ #3: (максимум 5 балів)
 https://github.com/SerhiyProtsenko/SumDUDataScienceCourse/blob/master/homeworks/H3_decision_trees.ipynb
 Deadline третього домашнього завдання: необхідно виконати та надіслати Ваше рішення до 25 лютого 23:59
+
+ДЗ #4: (максимум 5 балів)
+https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_spring2019/assignment2_part1_alice_logistic_regression.ipynb?flush_cache=true
+Deadline четветрого домашнього завдання: необхідно виконати та надіслати Ваше рішення до 10 березня 20:00
+
+Змагання #1: (максимум 10 балів)
+https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_spring2019/assignment2_part1_alice_logistic_regression.ipynb?flush_cache=true
+Deadline першого змагання: необхідно виконати та надіслати Ваше рішення до 10 березня 20:00
+Вам потрібно побити два безлайна на лідерборді, а саме: A2 baseline 0.95640, A2 strong baseline 0.95965. Прохання давати зрозумілі нікнейми, щоб я міг Вас ідентифікувати на лідерборді.
