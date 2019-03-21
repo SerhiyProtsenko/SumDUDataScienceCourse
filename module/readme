@@ -1,6 +1,9 @@
 module
 Що Вас чекає на модульному тижні?
 Датасет з https://www.kaggle.com/datasets
+
+https://www.kaggle.com/protsenko/fork-of-zno2018
+
 Що необхідно зробити?
 1. EDA (exploratory data analysis)
 2. Генерація нових фітч.
