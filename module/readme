@@ -10,19 +10,19 @@ https://www.kaggle.com/protsenko/fork-of-zno2018
 3. Скелінг фітч за потреби
 4. Перетворення категоріальних фітч в pd.get_dummies, onehot encoding, countvectorise, tfidf (за потреби в залежності від датасету)
 5. train_test_split та cross_val_score
-6. Створення моделей для класифікації: sklearn.linear_model.LogisticRegression, sklearn.tree.DecisionTreeClassifier
-7. Для регресії : sklearn.linear_model.LinearRegression, .Ridge, .Lasso, DecisionTreeRegressor
+6. Створення моделей для класифікації: sklearn.linear_model.LogisticRegression (за бажанням), sklearn.tree.DecisionTreeClassifier
+7. Для регресії : sklearn.linear_model.LinearRegression(за бажанням), .Ridge(за бажанням), .Lasso(за бажанням), DecisionTreeRegressor
 8. Аналіз метрик якості: регресія sklearn.metrics.mean_squared_error, sklearn.metrics.mean_absolute_error.
 9. Аналіз метрик якості: класифікація  from sklearn.metrics import accuracy_score, roc_auc_score, confusion_matrix, classification_report. Знати коли можна використовувати accuracy_score та roc_auc_score, знати про баланс класів
 10. Після аналізу метрик повернутися до п. 1,2,3 та згенерувати додаткові фітчі
-11. Зробити пошук оптимальних гіперпараметрів за допомогою sklearn.model_selection.GridSearchCV або відповідними моделями LassoCV, RidgeCV і т.і.
+11. Зробити пошук оптимальних гіперпараметрів за допомогою sklearn.model_selection.GridSearchCV або відповідними моделями LassoCV(за бажанням), RidgeCV(за бажанням) і т.і.
 12. Повернутися до п.9-10 та за потреби 1,2,3
 13. Зробити висновки
 14. Пояснити, що ви робили своїми словами
 
 module 2
 Що Вас чекає на модульному тижні?
-Датасет https://www.kaggle.com/protsenko/module-2-zno2018
+#Датасет https://www.kaggle.com/protsenko/module-2-zno2018
 
 Що необхідно зробити?
 
