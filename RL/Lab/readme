@@ -1,1 +1,6 @@
 
+Для справки:
+
+- https://gym.openai.com/docs/
+- https://gym.openai.com/envs/MountainCar-v0/  and https://github.com/openai/gym/blob/master/gym/envs/classic_control/mountain_car.py
+- https://gym.openai.com/envs/Taxi-v3/ and https://github.com/openai/gym/blob/master/gym/envs/toy_text/taxi.py 
